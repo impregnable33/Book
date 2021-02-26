@@ -1,0 +1,2 @@
+If next input character isn't end of file, the value of expression is 1.
+Else the value of expression is 0.

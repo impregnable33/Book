@@ -1,0 +1,2 @@
+If input is too long, interger overflow is occured.
+Even if input has invisible character or control character, program increases nc and nw.

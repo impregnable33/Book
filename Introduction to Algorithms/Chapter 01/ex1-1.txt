@@ -1,0 +1,6 @@
+Before the loop A = <31, 41, 59, 26, 41, 58>
+When key is 41, after the loop A = <31, 41, 59, 26, 41, 58>
+When key is 59, after the loop A = <31, 41, 59, 26, 41, 58>
+When key is 26, after the loop A = <26, 31, 41, 59, 41, 58>
+When key is 41, after the loop A = <26, 31, 41, 41, 59, 58>
+When key is 58, after the loop A = <26, 31, 41, 41, 58, 59>

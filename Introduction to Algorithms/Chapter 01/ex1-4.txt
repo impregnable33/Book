@@ -1,0 +1,11 @@
+ADD-BINARY(A, B)
+
+carry = 0
+for i = A.length downto 1
+	sum = A[i] + B[i] + carry
+	carry = 0
+	if (sum > 1)
+		carry = 1
+		sum = sum - 2
+	C[i + 1] = sum
+C[i + 1] = carry
